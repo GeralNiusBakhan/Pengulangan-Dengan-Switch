@@ -28,3 +28,11 @@ jumlah=uang/harga;
 > Perhatikan bahwa kedua intruksi ini dilakukan di luar struktur switch
 
 
+# Hasil
+Masukkan Jumlah Uang= 40000
+Pilih: 1.beras 1OK, 2.minyak  12K, 3.gula 15k : 3
+Dibeli gula, Harga=15000, Jumlah 2, Sisa : 10000
+Pilih: 1.beras 1OK, 2.minyak  12K, 3.gula 15k : 2
+Dibeli minyak, Harga=12000, Jumlah 0, Sisa : 10000
+Pilih: 1.beras 1OK, 2.minyak  12K, 3.gula 15k : 1
+Dibeli beras, Harga=10000, Jumlah 1, Sisa : 0
