@@ -47,3 +47,8 @@ Dibeli minyak, Harga=12000, Jumlah 0, Sisa : 10000
 Pilih: 1.beras 1OK, 2.minyak  12K, 3.gula 15k : 1
 
 Dibeli beras, Harga=10000, Jumlah 1, Sisa : 0
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
